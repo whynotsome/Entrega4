@@ -1,4 +1,4 @@
-# Entrega4
+# Entrega 4
 
 ### Rodando o projeto
 * Colocar as pastar Funcoes e Testes na IDE
